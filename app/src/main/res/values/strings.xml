@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DoAn3</string>
+    <string name="login">Login</string>
+    <string name="Email" />
+    <string name="Password" />
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="add_image">add image</string>
+    <string name="Name" />
+</resources>
